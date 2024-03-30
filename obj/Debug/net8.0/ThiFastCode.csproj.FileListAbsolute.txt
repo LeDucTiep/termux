@@ -1,0 +1,14 @@
+D:\Misa\ThiFastCode\bin\Debug\net8.0\ThiFastCode.exe
+D:\Misa\ThiFastCode\bin\Debug\net8.0\ThiFastCode.deps.json
+D:\Misa\ThiFastCode\bin\Debug\net8.0\ThiFastCode.runtimeconfig.json
+D:\Misa\ThiFastCode\bin\Debug\net8.0\ThiFastCode.dll
+D:\Misa\ThiFastCode\bin\Debug\net8.0\ThiFastCode.pdb
+D:\Misa\ThiFastCode\obj\Debug\net8.0\ThiFastCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Misa\ThiFastCode\obj\Debug\net8.0\ThiFastCode.AssemblyInfoInputs.cache
+D:\Misa\ThiFastCode\obj\Debug\net8.0\ThiFastCode.AssemblyInfo.cs
+D:\Misa\ThiFastCode\obj\Debug\net8.0\ThiFastCode.csproj.CoreCompileInputs.cache
+D:\Misa\ThiFastCode\obj\Debug\net8.0\ThiFastCode.dll
+D:\Misa\ThiFastCode\obj\Debug\net8.0\refint\ThiFastCode.dll
+D:\Misa\ThiFastCode\obj\Debug\net8.0\ThiFastCode.pdb
+D:\Misa\ThiFastCode\obj\Debug\net8.0\ThiFastCode.genruntimeconfig.cache
+D:\Misa\ThiFastCode\obj\Debug\net8.0\ref\ThiFastCode.dll
